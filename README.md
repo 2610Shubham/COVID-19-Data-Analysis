@@ -43,3 +43,22 @@ The dataset contains the following columns:
 **Note**: The dataset has missing values for the `State` column, which were not relevant for this analysis.
 
 ---
+
+## Key Analysis Steps
+1. **Data Cleaning**:
+   - Checked for missing values and visualized null data using a heatmap.
+   - Filtered out records where the number of confirmed cases was less than 10.
+   
+2. **Descriptive Analysis**:
+   - Total confirmed, death, and recovery cases for each region.
+   - Identified regions with maximum confirmed cases and minimum deaths.
+
+3. **Sorting and Filtering**:
+   - Sorted data by recovered cases in descending order.
+   - Extracted COVID-19 statistics specifically for India.
+
+4. **Enhanced Visualizations**:
+   - Bar plot showing the top 10 regions with the highest confirmed cases.
+   - Pie chart showing the distribution of total cases (confirmed + deaths + recovered) for the top 5 regions.
+
+---
