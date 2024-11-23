@@ -23,3 +23,23 @@ The COVID-19 pandemic has impacted the world in unprecedented ways. This project
 - visualizations to highlight key patterns.
 
 ---
+
+## Technologies Used
+- **Programming Language**: Python
+- **Libraries**:
+  - `pandas` for data manipulation
+  - `matplotlib` and `seaborn` for data visualization
+
+---
+
+## Dataset Description
+The dataset contains the following columns:
+- **Date**: The date of data recording.
+- **Region**: The country or region where the data was recorded.
+- **Confirmed**: The total number of confirmed cases.
+- **Deaths**: The total number of deaths recorded.
+- **Recovered**: The total number of recovered cases.
+
+**Note**: The dataset has missing values for the `State` column, which were not relevant for this analysis.
+
+---
