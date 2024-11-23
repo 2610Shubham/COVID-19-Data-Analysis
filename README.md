@@ -10,9 +10,8 @@ This project involves analyzing a dataset of COVID-19 cases to extract meaningfu
 3. [Dataset Description](#dataset-description)
 4. [Key Analysis Steps](#key-analysis-steps)
 5. [Visualizations](#visualizations)
-6. [How to Run the Project](#how-to-run-the-project)
-7. [Insights](#insights)
-8. [Future Scope](#future-scope)
+6. [Insights](#insights)
+7. [Future Scope](#future-scope)
 
 ---
 
@@ -60,5 +59,21 @@ The dataset contains the following columns:
 4. **Enhanced Visualizations**:
    - Bar plot showing the top 10 regions with the highest confirmed cases.
    - Pie chart showing the distribution of total cases (confirmed + deaths + recovered) for the top 5 regions.
+
+---
+
+
+## Visualizations
+### 1. **Top 10 Regions by Confirmed Cases**
+A bar plot was created to display the top 10 regions with the highest confirmed cases.  
+![Top 10 Regions by Confirmed Cases](#)
+
+### 2. **Distribution of Total Cases (Top 5 Regions)**
+A pie chart was created to visualize the distribution of confirmed, deaths, and recovered cases across the top 5 regions.  
+![Distribution of Total Cases](#)
+
+### 3. **Heatmap of Missing Values**
+A heatmap was generated to visualize missing data in the dataset.  
+![Heatmap of Missing Values](#)
 
 ---
