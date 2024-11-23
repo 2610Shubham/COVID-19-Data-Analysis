@@ -15,3 +15,11 @@ This project involves analyzing a dataset of COVID-19 cases to extract meaningfu
 8. [Future Scope](#future-scope)
 
 ---
+
+## Overview
+The COVID-19 pandemic has impacted the world in unprecedented ways. This project leverages a dataset to analyze the distribution and trends of cases (confirmed, deaths, recovered) globally and regionally. The project includes:
+- Data cleaning and preprocessing.
+- Descriptive and comparative analysis.
+- visualizations to highlight key patterns.
+
+---
